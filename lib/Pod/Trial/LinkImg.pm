@@ -3,7 +3,7 @@ package Pod::Trial::LinkImg;
 use warnings;
 use strict;
 
-our $VERSION = '0.002';
+our $VERSION = '0.003';
 
 # ------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------
@@ -18,7 +18,7 @@ Pod::Trial::LinkImg - Test image display in pod docs.
 
 =head1 VERSION
 
-Version 0.002
+Version 0.003
 
 =head1 SYNOPSIS
 
