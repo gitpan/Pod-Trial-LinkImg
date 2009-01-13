@@ -3,7 +3,7 @@
 use Test::More tests => 1;
 
 BEGIN {
-	use_ok( 'POD::Trial::LinkImg' );
+	use_ok( 'Pod::Trial::LinkImg' );
 }
 
-diag( "Testing POD::Trial::LinkImg $POD::Trial::LinkImg::VERSION, Perl $], $^X" );
+diag( "Testing Pod::Trial::LinkImg $Pod::Trial::LinkImg::VERSION, Perl $], $^X" );
